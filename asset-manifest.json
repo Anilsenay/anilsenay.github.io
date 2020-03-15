@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anilsenay.wtf/static/css/main.47ca54d0.chunk.css",
+    "main.js": "/anilsenay.wtf/static/js/main.aa0551d7.chunk.js",
+    "main.js.map": "/anilsenay.wtf/static/js/main.aa0551d7.chunk.js.map",
+    "runtime-main.js": "/anilsenay.wtf/static/js/runtime-main.462ff11e.js",
+    "runtime-main.js.map": "/anilsenay.wtf/static/js/runtime-main.462ff11e.js.map",
+    "static/js/2.c1064278.chunk.js": "/anilsenay.wtf/static/js/2.c1064278.chunk.js",
+    "static/js/2.c1064278.chunk.js.map": "/anilsenay.wtf/static/js/2.c1064278.chunk.js.map",
+    "index.html": "/anilsenay.wtf/index.html",
+    "precache-manifest.5d9b96a9ebd7a8356e58483890716d92.js": "/anilsenay.wtf/precache-manifest.5d9b96a9ebd7a8356e58483890716d92.js",
+    "service-worker.js": "/anilsenay.wtf/service-worker.js",
+    "static/css/main.47ca54d0.chunk.css.map": "/anilsenay.wtf/static/css/main.47ca54d0.chunk.css.map",
+    "static/js/2.c1064278.chunk.js.LICENSE.txt": "/anilsenay.wtf/static/js/2.c1064278.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.462ff11e.js",
+    "static/js/2.c1064278.chunk.js",
+    "static/css/main.47ca54d0.chunk.css",
+    "static/js/main.aa0551d7.chunk.js"
+  ]
+}
